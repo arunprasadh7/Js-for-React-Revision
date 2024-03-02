@@ -11,5 +11,5 @@ function anotherFunction() {
   console.log("This is another function.");
 }
 
-export default feed
-export anotherFunction
+export default feed;
+export anotherFunction;
